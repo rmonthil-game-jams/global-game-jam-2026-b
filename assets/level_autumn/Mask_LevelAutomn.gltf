@@ -1,0 +1,4427 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.4.4"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 1296,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 617,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.30184436, -0.149999976, -0.649999857 ],
+			"max": [ 1.51622033, 0.150000095, 0.649999976 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 617,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 617,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 617,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 617,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 36,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 7,
+			"count": 24,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3, -0.5, -3 ],
+			"max": [ 3, 0.5, 3 ]
+		},
+		{
+			"bufferView": 8,
+			"count": 24,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 24,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 24,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 24,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 84,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 13,
+			"count": 48,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.99999851, -0.5, -1 ],
+			"max": [ 1, 0.582468987, 1 ]
+		},
+		{
+			"bufferView": 14,
+			"count": 48,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 15,
+			"count": 48,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 48,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 48,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 18,
+			"count": 1590,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 19,
+			"count": 862,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.03200865, 0.5, -0.0892019272 ],
+			"max": [ 3.03199983, 2.18236709, 0.0892019272 ]
+		},
+		{
+			"bufferView": 20,
+			"count": 862,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 21,
+			"count": 862,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 22,
+			"count": 862,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 23,
+			"count": 862,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 24,
+			"count": 3066,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 25,
+			"count": 1292,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -5.90131521, 0.444693595, -0.821341515 ],
+			"max": [ 5.90131521, 8.38190079, 0.804392815 ]
+		},
+		{
+			"bufferView": 26,
+			"count": 1292,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 27,
+			"count": 1292,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 28,
+			"count": 1292,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 29,
+			"count": 1292,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 30,
+			"count": 948,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 31,
+			"count": 356,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.00000024, -0.5, -3.00000024 ],
+			"max": [ 3, 3.75660086, 3.00000048 ]
+		},
+		{
+			"bufferView": 32,
+			"count": 356,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 33,
+			"count": 356,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 34,
+			"count": 356,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 35,
+			"count": 356,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 36,
+			"count": 144,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 37,
+			"count": 54,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.5, -0.5, -0.5 ],
+			"max": [ 0.5, 0.5, 0.5 ]
+		},
+		{
+			"bufferView": 38,
+			"count": 54,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 39,
+			"count": 54,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 40,
+			"count": 54,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 41,
+			"count": 54,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 42,
+			"count": 2064,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 43,
+			"count": 866,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -2.99999571, -0.5, -2.99999499 ],
+			"max": [ 3.00000262, 1.90843368, 3.00000262 ]
+		},
+		{
+			"bufferView": 44,
+			"count": 866,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 45,
+			"count": 866,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 46,
+			"count": 866,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 47,
+			"count": 866,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 48,
+			"count": 624,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 49,
+			"count": 216,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.00000215, -1.90133635e-17, -0.18658258 ],
+			"max": [ 2.99999332, 4.7908144, 0.155255884 ]
+		},
+		{
+			"bufferView": 50,
+			"count": 216,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 51,
+			"count": 216,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 52,
+			"count": 216,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 53,
+			"count": 216,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 54,
+			"count": 60,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 55,
+			"count": 36,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.00000119, -3.57017009e-17, -0.291526496 ],
+			"max": [ 3, 4.7908144, 0.291528702 ]
+		},
+		{
+			"bufferView": 56,
+			"count": 36,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 57,
+			"count": 36,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 58,
+			"count": 36,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 59,
+			"count": 36,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 60,
+			"count": 2256,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 61,
+			"count": 914,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.10000539, -0.599999964, -3.00000048 ],
+			"max": [ 3.09999847, 2.12315869, 3 ]
+		},
+		{
+			"bufferView": 62,
+			"count": 914,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 63,
+			"count": 914,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 64,
+			"count": 914,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 65,
+			"count": 914,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 66,
+			"count": 1650,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 67,
+			"count": 696,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.628219843, 0.463811874, -0.628219843 ],
+			"max": [ 0.628219843, 4.73011446, 0.628219843 ]
+		},
+		{
+			"bufferView": 68,
+			"count": 696,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 69,
+			"count": 696,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 70,
+			"count": 696,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 71,
+			"count": 696,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 72,
+			"count": 2676,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 73,
+			"count": 928,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.51616788, 0.0118262656, -2.05376267 ],
+			"max": [ 3.51616716, 6.69994354, 0.246267959 ]
+		},
+		{
+			"bufferView": 74,
+			"count": 928,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 75,
+			"count": 928,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 76,
+			"count": 928,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 77,
+			"count": 928,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 78,
+			"count": 2028,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 79,
+			"count": 672,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -3.51616788, -3.00514174, -0.554111719 ],
+			"max": [ 3.51616716, 3.68297529, 0.246267959 ]
+		},
+		{
+			"bufferView": 80,
+			"count": 672,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 81,
+			"count": 672,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 82,
+			"count": 672,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 83,
+			"count": 672,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "Mask_LevelAutomn.bin",
+			"byteLength": 460632
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 2592,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7404,
+			"byteOffset": 2592,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7404,
+			"byteOffset": 9996,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9872,
+			"byteOffset": 17400,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4936,
+			"byteOffset": 27272,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4936,
+			"byteOffset": 32208,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 36,
+			"byteOffset": 37144,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 37180,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 37468,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384,
+			"byteOffset": 37756,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 192,
+			"byteOffset": 38140,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 192,
+			"byteOffset": 38332,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 84,
+			"byteOffset": 38524,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 576,
+			"byteOffset": 38608,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 576,
+			"byteOffset": 39184,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 768,
+			"byteOffset": 39760,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384,
+			"byteOffset": 40528,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 384,
+			"byteOffset": 40912,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3180,
+			"byteOffset": 41296,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10344,
+			"byteOffset": 44476,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10344,
+			"byteOffset": 54820,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 13792,
+			"byteOffset": 65164,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6896,
+			"byteOffset": 78956,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6896,
+			"byteOffset": 85852,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6132,
+			"byteOffset": 92748,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15504,
+			"byteOffset": 98880,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15504,
+			"byteOffset": 114384,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 20672,
+			"byteOffset": 129888,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10336,
+			"byteOffset": 150560,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10336,
+			"byteOffset": 160896,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1896,
+			"byteOffset": 171232,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4272,
+			"byteOffset": 173128,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4272,
+			"byteOffset": 177400,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5696,
+			"byteOffset": 181672,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2848,
+			"byteOffset": 187368,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2848,
+			"byteOffset": 190216,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 144,
+			"byteOffset": 193064,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 648,
+			"byteOffset": 193208,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 648,
+			"byteOffset": 193856,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 864,
+			"byteOffset": 194504,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 432,
+			"byteOffset": 195368,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 432,
+			"byteOffset": 195800,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4128,
+			"byteOffset": 196232,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10392,
+			"byteOffset": 200360,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10392,
+			"byteOffset": 210752,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 13856,
+			"byteOffset": 221144,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6928,
+			"byteOffset": 235000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6928,
+			"byteOffset": 241928,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 624,
+			"byteOffset": 248856,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2592,
+			"byteOffset": 249480,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2592,
+			"byteOffset": 252072,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3456,
+			"byteOffset": 254664,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1728,
+			"byteOffset": 258120,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1728,
+			"byteOffset": 259848,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 60,
+			"byteOffset": 261576,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 432,
+			"byteOffset": 261636,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 432,
+			"byteOffset": 262068,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 576,
+			"byteOffset": 262500,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 263076,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 288,
+			"byteOffset": 263364,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4512,
+			"byteOffset": 263652,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10968,
+			"byteOffset": 268164,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10968,
+			"byteOffset": 279132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 14624,
+			"byteOffset": 290100,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7312,
+			"byteOffset": 304724,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7312,
+			"byteOffset": 312036,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3300,
+			"byteOffset": 319348,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8352,
+			"byteOffset": 322648,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8352,
+			"byteOffset": 331000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11136,
+			"byteOffset": 339352,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5568,
+			"byteOffset": 350488,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5568,
+			"byteOffset": 356056,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5352,
+			"byteOffset": 361624,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11136,
+			"byteOffset": 366976,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 11136,
+			"byteOffset": 378112,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 14848,
+			"byteOffset": 389248,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7424,
+			"byteOffset": 404096,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7424,
+			"byteOffset": 411520,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4056,
+			"byteOffset": 418944,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8064,
+			"byteOffset": 423000,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 8064,
+			"byteOffset": 431064,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10752,
+			"byteOffset": 439128,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5376,
+			"byteOffset": 449880,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5376,
+			"byteOffset": 455256,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "M_Groung_Autumn_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Pressure_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Portal_Level_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Moving_plateform_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Wall_wood_MetallicRoughness.png"
+		},
+		{
+			"uri": "M_Portal_automn_MetallicRoughness.png"
+		},
+		{
+			"uri": "key_BaseColor.png"
+		},
+		{
+			"uri": "ground_BaseColor.png"
+		},
+		{
+			"uri": "ground_Normal.png"
+		},
+		{
+			"uri": "pressure_BaseColor.png"
+		},
+		{
+			"uri": "pressure_Normal.png"
+		},
+		{
+			"uri": "portal_level_BaseColor.png"
+		},
+		{
+			"uri": "portal_level_Normal.png"
+		},
+		{
+			"uri": "stairs_hill_BaseColor.png"
+		},
+		{
+			"uri": "stairs_hill_Normal.png"
+		},
+		{
+			"uri": "moving_platform_BaseColor.png"
+		},
+		{
+			"uri": "moving_platform_Normal.png"
+		},
+		{
+			"uri": "wall_wood_BaseColor.png"
+		},
+		{
+			"uri": "wall_wood_Normal.png"
+		},
+		{
+			"uri": "wall_base_spring_BaseColor.png"
+		},
+		{
+			"uri": "bridge_wood_BaseColor.png"
+		},
+		{
+			"uri": "bridge_wood_Normal.png"
+		},
+		{
+			"uri": "pillar_BaseColor.png"
+		},
+		{
+			"uri": "portal_autumn_BaseColor.png"
+		},
+		{
+			"uri": "arch_autumn_BaseColor.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "M_Key",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.0352941193
+			}
+		},
+		{
+			"name": "M_Groung_Autumn",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 1
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 2
+				}
+			},
+			"normalTexture":
+			{
+				"index": 3
+			}
+		},
+		{
+			"name": "M_Pressure",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 4
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 5
+				}
+			},
+			"normalTexture":
+			{
+				"index": 6
+			}
+		},
+		{
+			"name": "M_Barrier_wood",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0.147027284, 0.063010022, 0.0284260381, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Portal_Level",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 7
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 8
+				}
+			},
+			"normalTexture":
+			{
+				"index": 9
+			}
+		},
+		{
+			"name": "M_Stairs_hill",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 10
+				},
+				"metallicFactor": 0
+			},
+			"normalTexture":
+			{
+				"index": 11
+			}
+		},
+		{
+			"name": "M_Pink",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 1, 0, 0.270497799, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Moving_plateform",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 12
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 13
+				}
+			},
+			"normalTexture":
+			{
+				"index": 14
+			}
+		},
+		{
+			"name": "M_Wall_wood",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 15
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 16
+				}
+			},
+			"normalTexture":
+			{
+				"index": 17
+			}
+		},
+		{
+			"name": "M_Wall_base_spring",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 18
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.21960786
+			}
+		},
+		{
+			"name": "M_Door",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 1, 0, 0, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Bridge_wood",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 19
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.21960786
+			},
+			"normalTexture":
+			{
+				"index": 20
+			}
+		},
+		{
+			"name": "M_Pillars",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 21
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "M_Portal_automn",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 22
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 23
+				}
+			}
+		},
+		{
+			"name": "M_Purple",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0.205078736, 0, 0.171441093, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Green",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0.00303526991, 0.147027269, 0, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Yellow",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0.775822222, 1, 0, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Portal",
+			"pbrMetallicRoughness":
+			{
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Blue",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0, 0.0318960324, 0.215860501, 1 ],
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			}
+		},
+		{
+			"name": "M_Arch_automn",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 24
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.21960786
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "key",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		},
+		{
+			"name": "ground_base",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 1
+				}
+			]
+		},
+		{
+			"name": "pressure",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 13,
+						"NORMAL": 14,
+						"TANGENT": 15,
+						"TEXCOORD_0": 16,
+						"TEXCOORD_1": 17
+					},
+					"indices": 12,
+					"material": 2
+				}
+			]
+		},
+		{
+			"name": "barrier_wood",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 19,
+						"NORMAL": 20,
+						"TANGENT": 21,
+						"TEXCOORD_0": 22,
+						"TEXCOORD_1": 23
+					},
+					"indices": 18,
+					"material": 3
+				}
+			]
+		},
+		{
+			"name": "portal_level",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 25,
+						"NORMAL": 26,
+						"TANGENT": 27,
+						"TEXCOORD_0": 28,
+						"TEXCOORD_1": 29
+					},
+					"indices": 24,
+					"material": 4
+				}
+			]
+		},
+		{
+			"name": "stairs_hill",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 31,
+						"NORMAL": 32,
+						"TANGENT": 33,
+						"TEXCOORD_0": 34,
+						"TEXCOORD_1": 35
+					},
+					"indices": 30,
+					"material": 5
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 6
+				}
+			]
+		},
+		{
+			"name": "moving_platform",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 43,
+						"NORMAL": 44,
+						"TANGENT": 45,
+						"TEXCOORD_0": 46,
+						"TEXCOORD_1": 47
+					},
+					"indices": 42,
+					"material": 7
+				}
+			]
+		},
+		{
+			"name": "wall_wood",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 49,
+						"NORMAL": 50,
+						"TANGENT": 51,
+						"TEXCOORD_0": 52,
+						"TEXCOORD_1": 53
+					},
+					"indices": 48,
+					"material": 8
+				}
+			]
+		},
+		{
+			"name": "wall_base",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 55,
+						"NORMAL": 56,
+						"TANGENT": 57,
+						"TEXCOORD_0": 58,
+						"TEXCOORD_1": 59
+					},
+					"indices": 54,
+					"material": 9
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 10
+				}
+			]
+		},
+		{
+			"name": "bridge_wood",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 61,
+						"NORMAL": 62,
+						"TANGENT": 63,
+						"TEXCOORD_0": 64,
+						"TEXCOORD_1": 65
+					},
+					"indices": 60,
+					"material": 11
+				}
+			]
+		},
+		{
+			"name": "pillar_autumn",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 67,
+						"NORMAL": 68,
+						"TANGENT": 69,
+						"TEXCOORD_0": 70,
+						"TEXCOORD_1": 71
+					},
+					"indices": 66,
+					"material": 12
+				}
+			]
+		},
+		{
+			"name": "portal_autumn",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 73,
+						"NORMAL": 74,
+						"TANGENT": 75,
+						"TEXCOORD_0": 76,
+						"TEXCOORD_1": 77
+					},
+					"indices": 72,
+					"material": 13
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 14
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 15
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 16
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 17
+				}
+			]
+		},
+		{
+			"name": "Cube",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 37,
+						"NORMAL": 38,
+						"TANGENT": 39,
+						"TEXCOORD_0": 40,
+						"TEXCOORD_1": 41
+					},
+					"indices": 36,
+					"material": 18
+				}
+			]
+		},
+		{
+			"name": "arch_autumn",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 79,
+						"NORMAL": 80,
+						"TANGENT": 81,
+						"TEXCOORD_0": 82,
+						"TEXCOORD_1": 83
+					},
+					"indices": 78,
+					"material": 19
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "Brush0"
+		},
+		{
+			"name": "SkyAtmosphere2",
+			"translation": [ -14.1999998, 10.1999998, 14 ]
+		},
+		{
+			"name": "DirectionalLight2",
+			"translation": [ -14.1999998, 9.19999981, 14 ],
+			"rotation": [ -0.617068648, 0.691850901, -0.211627454, 0.309487641 ],
+			"scale": [ 2.5, 2.5, 2.5 ],
+			"children": [ 3 ]
+		},
+		{
+			"name": "DirectionalLight2",
+			"rotation": [ -0, -0.707106829, 0, 0.707106769 ],
+			"extensions":
+			{
+				"KHR_lights_punctual":
+				{
+					"light": 0
+				}
+			}
+		},
+		{
+			"name": "VolumetricCloud",
+			"translation": [ -14.1999998, 8.19999981, 14 ]
+		},
+		{
+			"name": "ExponentialHeightFog",
+			"translation": [ -70.1999969, -68.5, 13.5 ]
+		},
+		{
+			"name": "SkyLight2",
+			"translation": [ -14.1999998, 6.89999962, 14 ]
+		},
+		{
+			"name": "PostProcessVolume2",
+			"translation": [ -51.3499985, 5, -6.25 ],
+			"scale": [ 33.5, 34, 30.25 ]
+		},
+		{
+			"name": "key6",
+			"translation": [ 47.7999992, 1.62500107, -0.099999994 ],
+			"scale": [ 0.5, 0.5, 0.5 ],
+			"mesh": 0
+		},
+		{
+			"name": "ground_base5",
+			"translation": [ 0, 5.04999971, -0.099999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "pressure4",
+			"translation": [ 1.13794243, 1.15000129, -41.6081581 ],
+			"mesh": 2
+		},
+		{
+			"name": "barrier_wood25",
+			"translation": [ -15.1999998, 5.05000067, -6.0999999 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood26",
+			"translation": [ -15.1999998, 5.05000067, -0.099999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood27",
+			"translation": [ -15.1999998, 5.05000067, 5.9000001 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "portal_level",
+			"translation": [ 21.8999996, 1.10530794, -39.2000008 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 4
+		},
+		{
+			"name": "ground_base68",
+			"translation": [ -12, 5.04999971, -6.0999999 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base76",
+			"translation": [ -12, 5.04999971, -0.099999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base77",
+			"translation": [ -12, 5.04999971, 5.9000001 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base81",
+			"translation": [ -12, 5.04999971, 11.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base83",
+			"translation": [ -12, 5.04999971, -12.0999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "stairs_hill5",
+			"translation": [ 0, 3.04999995, 17.8999996 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 5
+		},
+		{
+			"name": "stairs_hill6",
+			"translation": [ 0, 1.04999995, 23.8999996 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 5
+		},
+		{
+			"name": "ground_base84",
+			"translation": [ -6, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base85",
+			"translation": [ 0, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base86",
+			"translation": [ 6, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base87",
+			"translation": [ -12, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base88",
+			"translation": [ -6, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base89",
+			"translation": [ 0, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base90",
+			"translation": [ 6, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base91",
+			"translation": [ -12, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base92",
+			"translation": [ -6, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base93",
+			"translation": [ 0, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base94",
+			"translation": [ 6, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base95",
+			"translation": [ -12, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base96",
+			"translation": [ -6, 1.04999995, 47.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base97",
+			"translation": [ 0, 1.04999995, 47.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base98",
+			"translation": [ 6, 1.04999995, 47.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base99",
+			"translation": [ -12, 1.04999995, 47.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "Portal2",
+			"translation": [ -14.5, 3.5500021, 47.8999977 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 6
+		},
+		{
+			"name": "stairs_hill7",
+			"translation": [ 18, 3.04999995, -0.099999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 5
+		},
+		{
+			"name": "ground_base14",
+			"translation": [ 24, 3.04999995, -6.0999999 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base15",
+			"translation": [ 24, 3.04999995, -0.099999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base16",
+			"translation": [ 24, 3.04999995, 5.9000001 ],
+			"mesh": 1
+		},
+		{
+			"name": "stairs_hill8",
+			"translation": [ 24, 1.04999995, 11.8999996 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 5
+		},
+		{
+			"name": "stairs_hill9",
+			"translation": [ 24, 1.04999995, -12.0999994 ],
+			"mesh": 5
+		},
+		{
+			"name": "ground_base17",
+			"translation": [ 24, 1.04999995, 17.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base18",
+			"translation": [ 30, 1.04999995, 17.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base100",
+			"translation": [ 30, 1.04999995, 11.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base101",
+			"translation": [ 36, 1.04999995, 17.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base102",
+			"translation": [ 36, 1.04999995, 11.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base103",
+			"translation": [ 42, 1.04999995, 17.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base104",
+			"translation": [ 42, 1.04999995, 11.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base105",
+			"translation": [ 48, 1.04999995, 17.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base106",
+			"translation": [ 48, 1.04999995, 11.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base107",
+			"translation": [ 30, 1.04999995, 5.9000001 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base108",
+			"translation": [ 30, 1.04999995, -0.099999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base113",
+			"translation": [ 48, 1.04999995, 5.9000001 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base114",
+			"translation": [ 48, 1.04999995, -0.099999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base115",
+			"translation": [ 30, 1.04999995, -6.0999999 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base118",
+			"translation": [ 48, 1.04999995, -6.0999999 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base119",
+			"translation": [ 30, 1.04999995, -12.0999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base120",
+			"translation": [ 30, 1.04999995, -18.1000004 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base121",
+			"translation": [ 36, 1.04999995, -12.0999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base122",
+			"translation": [ 36, 1.04999995, -18.1000004 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base123",
+			"translation": [ 42, 1.04999995, -12.0999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base124",
+			"translation": [ 42, 1.04999995, -18.1000004 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base125",
+			"translation": [ 48, 1.04999995, -12.0999994 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base126",
+			"translation": [ 48, 1.04999995, -18.1000004 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base127",
+			"translation": [ 24, 1.04999995, -18.1000004 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base128",
+			"translation": [ 24, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base129",
+			"translation": [ 30, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base130",
+			"translation": [ 36, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base131",
+			"translation": [ 42, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base134",
+			"translation": [ 60, 1.04999995, 29.8999996 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base135",
+			"translation": [ 24, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base136",
+			"translation": [ 30, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base137",
+			"translation": [ 36, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base138",
+			"translation": [ 42, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base141",
+			"translation": [ 60, 1.04999995, 35.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base144",
+			"translation": [ 24, 1.04999995, 53.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base145",
+			"translation": [ 42, 1.04999995, 53.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base146",
+			"translation": [ 24, 1.04999995, 65.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base147",
+			"translation": [ 30, 1.04999995, 65.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base148",
+			"translation": [ 36, 1.04999995, 65.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base149",
+			"translation": [ 42, 1.04999995, 65.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base152",
+			"translation": [ 24, 1.04999995, 71.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base153",
+			"translation": [ 30, 1.04999995, 71.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base154",
+			"translation": [ 36, 1.04999995, 71.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base155",
+			"translation": [ 42, 1.04999995, 71.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base157",
+			"translation": [ 54, 1.04999995, 71.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base158",
+			"translation": [ 24, 1.04999995, 77.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base159",
+			"translation": [ 30, 1.04999995, 77.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base160",
+			"translation": [ 36, 1.04999995, 77.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base163",
+			"translation": [ 54, 1.04999995, 77.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base165",
+			"translation": [ 54, 1.04999995, 89.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base166",
+			"translation": [ 48, 1.04999995, 89.9000015 ],
+			"mesh": 1
+		},
+		{
+			"name": "stairs_hill10",
+			"translation": [ -2.92031132e-07, 3.04999995, -18.1000004 ],
+			"mesh": 5
+		},
+		{
+			"name": "stairs_hill11",
+			"translation": [ 0, 1.04999995, -24.1000004 ],
+			"mesh": 5
+		},
+		{
+			"name": "ground_base143",
+			"translation": [ 30, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base167",
+			"translation": [ 36, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base168",
+			"translation": [ 42, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base170",
+			"translation": [ 24, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base173",
+			"translation": [ 66, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base174",
+			"translation": [ 72, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base175",
+			"translation": [ 30, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base176",
+			"translation": [ 36, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base177",
+			"translation": [ 42, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base179",
+			"translation": [ 24, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base182",
+			"translation": [ 66, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base183",
+			"translation": [ 72, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base184",
+			"translation": [ 30, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base185",
+			"translation": [ 36, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base186",
+			"translation": [ 42, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base188",
+			"translation": [ 24, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base191",
+			"translation": [ 66, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base192",
+			"translation": [ 72, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base193",
+			"translation": [ 48, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base194",
+			"translation": [ 54, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base195",
+			"translation": [ 60, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base196",
+			"translation": [ 48, 1.04999995, -54.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base197",
+			"translation": [ 54, 1.04999995, -54.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base198",
+			"translation": [ 60, 1.04999995, -54.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base199",
+			"translation": [ 48, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base200",
+			"translation": [ 54, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base201",
+			"translation": [ 60, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base142",
+			"translation": [ -6, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base202",
+			"translation": [ 0, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base203",
+			"translation": [ 6, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base204",
+			"translation": [ -12, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base205",
+			"translation": [ -6, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base206",
+			"translation": [ 0, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base207",
+			"translation": [ 6, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base208",
+			"translation": [ -12, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base209",
+			"translation": [ -6, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base210",
+			"translation": [ 0, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base211",
+			"translation": [ 6, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base212",
+			"translation": [ -12, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base213",
+			"translation": [ -6, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base214",
+			"translation": [ 0, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base215",
+			"translation": [ 6, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base216",
+			"translation": [ -12, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base217",
+			"translation": [ 12, 1.04999995, -48.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base218",
+			"translation": [ 12, 1.04999995, -42.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base219",
+			"translation": [ 12, 1.04999995, -36.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base220",
+			"translation": [ 12, 1.04999995, -30.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "moving_platform2",
+			"translation": [ -6, 1.05000103, -54.0999985 ],
+			"mesh": 7
+		},
+		{
+			"name": "ground_base221",
+			"translation": [ -6, 1.04999995, -66.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base222",
+			"translation": [ 0, 1.04999995, -66.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base223",
+			"translation": [ -12, 1.04999995, -66.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base224",
+			"translation": [ -6, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base225",
+			"translation": [ 0, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base226",
+			"translation": [ -12, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base227",
+			"translation": [ 12, 1.04999995, -66.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base228",
+			"translation": [ 18, 1.04999995, -66.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base230",
+			"translation": [ 12, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base231",
+			"translation": [ 18, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base233",
+			"translation": [ 24, 1.04999995, -66.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base234",
+			"translation": [ 24, 1.04999995, -60.0999985 ],
+			"mesh": 1
+		},
+		{
+			"name": "wall_wood",
+			"translation": [ -14.7999992, 1.5, 42.2000008 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base",
+			"translation": [ -14.6999998, 1.5, 36.2000008 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood2",
+			"translation": [ -14.7999992, 1.5, 30.1999989 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood3",
+			"translation": [ -6, 1.5, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood4",
+			"translation": [ 6, 1.5, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "barrier_wood28",
+			"translation": [ -11.8999996, 1.05000079, 50.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood29",
+			"translation": [ -6, 1.05000079, 50.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood30",
+			"translation": [ -0.099999994, 1.05000079, 50.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood31",
+			"translation": [ 5.9000001, 1.05000079, 50.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood32",
+			"translation": [ 8.89999962, 1.05000079, 30 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood33",
+			"translation": [ 8.89999962, 1.05000079, 35.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood34",
+			"translation": [ 8.89999962, 1.05000079, 41.7999992 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood35",
+			"translation": [ 8.89999962, 1.05000079, 47.7999992 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood36",
+			"translation": [ 6, 1.05000079, 38.7999992 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood38",
+			"translation": [ -5.79999971, 1.05000079, 38.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood39",
+			"translation": [ -11.6999998, 1.05000079, 38.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood40",
+			"translation": [ -2.89999986, 1.05000079, 41.7000008 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_wood5",
+			"translation": [ 21.1999989, 1.5, 17.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood6",
+			"translation": [ 21.1999989, 3.5, 5.9000001 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood7",
+			"translation": [ 21.1999989, 3.5, -6.0999999 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood8",
+			"translation": [ 21.1999989, 1.5, -18.1000004 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base2",
+			"translation": [ -14.6999998, 6.0999999, 36.2000008 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood12",
+			"translation": [ 6, 6.19081545, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood13",
+			"translation": [ 21.1999989, 6.19999981, 17.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood16",
+			"translation": [ 21.1999989, 6.19999981, -18.1000004 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood17",
+			"translation": [ -14.7999992, 5.5, 11.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base3",
+			"translation": [ -14.6999998, 5.5, 5.9000001 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood18",
+			"translation": [ -14.7999992, 5.5, -0.099999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood19",
+			"translation": [ -14.7999992, 10.0999994, 11.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base4",
+			"translation": [ -14.6999998, 10.0999994, 5.9000001 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood20",
+			"translation": [ -14.7999992, 10.0999994, -0.099999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base5",
+			"translation": [ -14.6999998, 5.5, -6.0999999 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood21",
+			"translation": [ -14.7999992, 5.5, -12.0999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base6",
+			"translation": [ -14.6999998, 10.0999994, -6.0999999 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood22",
+			"translation": [ -14.7999992, 10.0999994, -12.0999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "Door2",
+			"translation": [ -3.0999999, 3.57000113, 47.5999985 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 10
+		},
+		{
+			"name": "barrier_wood42",
+			"translation": [ -11.8999996, 5.05000067, 14.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood45",
+			"translation": [ -9.09999943, 5.05000067, 6 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood46",
+			"translation": [ -9.09999943, 5.05000067, 11.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_base7",
+			"translation": [ -12, 5.5, -14.7999992 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_base8",
+			"translation": [ -12, 10.0999994, -14.7999992 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_base11",
+			"translation": [ 24, 1.5, -20.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood27",
+			"translation": [ 30, 1.5, -20.8999996 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base12",
+			"translation": [ 24, 6.0999999, -20.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood28",
+			"translation": [ 30, 6.0999999, -20.8999996 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base13",
+			"translation": [ 36, 1.5, -20.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood29",
+			"translation": [ 42, 1.5, -20.8999996 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base14",
+			"translation": [ 36, 6.0999999, -20.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood30",
+			"translation": [ 42, 6.0999999, -20.8999996 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base15",
+			"translation": [ 48, 1.5, -20.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_base16",
+			"translation": [ 48, 6.0999999, -20.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "barrier_wood37",
+			"translation": [ 30.1999989, 1.05000079, 20.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood49",
+			"translation": [ 36.0999985, 1.05000079, 20.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood50",
+			"translation": [ 42, 1.05000079, 20.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood56",
+			"translation": [ 48, 1.05000079, 20.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood57",
+			"translation": [ 24.1999989, 1.05000079, 20.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood58",
+			"translation": [ 30.1999989, 1.05000079, 9 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood72",
+			"translation": [ 36.0999985, 1.05000079, 9 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood73",
+			"translation": [ 42, 1.05000079, 9 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood74",
+			"translation": [ 48, 1.05000079, 9 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood75",
+			"translation": [ 30.1999989, 1.05000079, -9.19999981 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood76",
+			"translation": [ 36.0999985, 1.05000079, -9.19999981 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood77",
+			"translation": [ 42, 1.05000079, -9.19999981 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood78",
+			"translation": [ 48, 1.05000079, -9.19999981 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood79",
+			"translation": [ 50.8999977, 1.05000079, -0.200000286 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood80",
+			"translation": [ 50.8999977, 1.05000079, -6.19999981 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood81",
+			"translation": [ 50.8999977, 1.05000079, -12.0999994 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood82",
+			"translation": [ 50.8999977, 1.05000079, -18.1000004 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood83",
+			"translation": [ 50.8999977, 1.05000079, 17.7999992 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood84",
+			"translation": [ 50.8999977, 1.05000079, 11.8000002 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood85",
+			"translation": [ 50.8999977, 1.05000079, 5.79999971 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_base17",
+			"translation": [ 21.2999992, 1.5, 41.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_base19",
+			"translation": [ 21.2999992, 1.5, 29.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "ground_base229",
+			"translation": [ 24, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base232",
+			"translation": [ 30, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base235",
+			"translation": [ 36, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base236",
+			"translation": [ 42, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "ground_base239",
+			"translation": [ 60, 1.04999995, 41.8999977 ],
+			"mesh": 1
+		},
+		{
+			"name": "pressure5",
+			"translation": [ 36.2379417, 1.15000129, 36.0918427 ],
+			"mesh": 2
+		},
+		{
+			"name": "key8",
+			"translation": [ 42, 1.62500107, 54 ],
+			"scale": [ 0.5, 0.5, 0.5 ],
+			"mesh": 0
+		},
+		{
+			"name": "wall_base21",
+			"translation": [ 24, 1.5, 27.1999989 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood31",
+			"translation": [ 30, 1.5, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base22",
+			"translation": [ 24, 6.0999999, 27.1999989 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood32",
+			"translation": [ 30, 6.0999999, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base23",
+			"translation": [ 36, 1.5, 27.1999989 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood33",
+			"translation": [ 42, 1.5, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base24",
+			"translation": [ 36, 6.0999999, 27.1999989 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood34",
+			"translation": [ 42, 6.0999999, 27.0999985 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "barrier_wood86",
+			"translation": [ 30.1999989, 1.05000079, 44.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood87",
+			"translation": [ 36.0999985, 1.05000079, 44.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood88",
+			"translation": [ 42, 1.05000079, 44.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood90",
+			"translation": [ 24.1999989, 1.05000079, 44.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood92",
+			"translation": [ 59.8999977, 1.05000079, 44.7999992 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood93",
+			"translation": [ 62.8999977, 1.05000079, 35.7999992 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood94",
+			"translation": [ 62.8999977, 1.05000079, 41.7999992 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood95",
+			"translation": [ 62.8999977, 1.05000079, 30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood96",
+			"translation": [ 42, 1.05000079, 51 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood97",
+			"translation": [ 39.0999985, 1.05000079, 53.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood98",
+			"translation": [ 44.8999977, 1.05000079, 53.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood99",
+			"translation": [ 24, 1.05000079, 51 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood100",
+			"translation": [ 26.8999996, 1.05000079, 53.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_wood37",
+			"translation": [ 21.1999989, 1.5, 77.9000015 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood38",
+			"translation": [ 21.1999989, 1.5, 65.9000015 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "barrier_wood101",
+			"translation": [ 30.1999989, 1.05000079, 63 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood102",
+			"translation": [ 36.0999985, 1.05000079, 63 ],
+			"mesh": 3
+		},
+		{
+			"name": "moving_platform3",
+			"translation": [ 24, 1.05000103, 59.8999977 ],
+			"mesh": 7
+		},
+		{
+			"name": "wall_wood41",
+			"translation": [ 48, 1.5, 87.0999985 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "barrier_wood103",
+			"translation": [ 30.1999989, 1.05000079, 80.7999954 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood104",
+			"translation": [ 36.0999985, 1.05000079, 80.7999954 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood105",
+			"translation": [ 42, 1.05000079, 74.7999954 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood107",
+			"translation": [ 24.1999989, 1.05000079, 80.7999954 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood110",
+			"translation": [ 54, 1.05000079, 69 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood111",
+			"translation": [ 56.8999977, 1.05000079, 71.7999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood114",
+			"translation": [ 56.8999977, 1.05000079, 77.7999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood115",
+			"translation": [ 56.8999977, 1.05000079, 89.7999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood116",
+			"translation": [ 48.0999985, 1.05000079, 92.7999954 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood117",
+			"translation": [ 54, 1.05000079, 92.7999954 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood118",
+			"translation": [ 39.0999985, 1.05000079, 71.7999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood119",
+			"translation": [ 39.0999985, 1.05000079, 65.9000015 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood120",
+			"translation": [ 39.0999985, 1.05000079, 77.7999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood121",
+			"translation": [ 26.8999996, 3.05000091, -0.200000286 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood122",
+			"translation": [ 26.8999996, 3.05000091, -6.19999981 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood123",
+			"translation": [ 26.8999996, 3.05000091, 5.79999971 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "bridge_wood",
+			"translation": [ 53.8999977, 1, 83.9000015 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood2",
+			"translation": [ 42, 1, -0.199999988 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood3",
+			"translation": [ 36, 1, -0.199999988 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "barrier_wood108",
+			"translation": [ 45.0999985, 1.05000079, -6.19999981 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood113",
+			"translation": [ 45.0999985, 1.05000079, 5.79999971 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood124",
+			"translation": [ 32.8999977, 1.05000079, -6.19999981 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood125",
+			"translation": [ 32.8999977, 1.05000079, 5.79999971 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "pillar_autumn",
+			"translation": [ 33.2000008, 1.08618903, -2.70000005 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn2",
+			"translation": [ 33.2000008, 1.08618903, 2.29999995 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn3",
+			"translation": [ 38.8999977, 1.08618903, -2.70000005 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn4",
+			"translation": [ 38.8999977, 1.08618903, 2.29999995 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn5",
+			"translation": [ 44.7999992, 1.08618903, -2.70000005 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn6",
+			"translation": [ 44.7999992, 1.08618903, 2.29999995 ],
+			"mesh": 12
+		},
+		{
+			"name": "barrier_wood127",
+			"translation": [ 27.0999985, 1.05000079, 5.79999971 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood128",
+			"translation": [ 27.0999985, 1.05000079, -0.200000286 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood129",
+			"translation": [ 21.1000004, 1.05000079, -30.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_base27",
+			"translation": [ 24, 1.5, -44.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood43",
+			"translation": [ 30, 1.5, -44.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base28",
+			"translation": [ 24, 6.0999999, -44.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood44",
+			"translation": [ 30, 6.0999999, -44.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base29",
+			"translation": [ 36, 1.5, -44.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood45",
+			"translation": [ 42, 1.5, -44.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base30",
+			"translation": [ 36, 6.0999999, -44.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood46",
+			"translation": [ 42, 6.0999999, -44.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood47",
+			"translation": [ 48, 1.5, -62.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood49",
+			"translation": [ 60, 1.5, -62.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base31",
+			"translation": [ 45.2999992, 1.5, -48.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood51",
+			"translation": [ 45.2000008, 1.5, -54.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base32",
+			"translation": [ 45.2999992, 6.0999999, -48.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood52",
+			"translation": [ 45.2000008, 6.0999999, -54.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base33",
+			"translation": [ 45.2999992, 1.5, -60.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_base34",
+			"translation": [ 45.2999992, 6.0999999, -60.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "barrier_wood51",
+			"translation": [ 30.1999989, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood52",
+			"translation": [ 36.0999985, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood53",
+			"translation": [ 42, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood131",
+			"translation": [ 24.1999989, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood132",
+			"translation": [ 65.9000015, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood133",
+			"translation": [ 71.9000015, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood134",
+			"translation": [ 74.9000015, 1.05000079, -42 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood135",
+			"translation": [ 74.9000015, 1.05000079, -36.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood136",
+			"translation": [ 74.9000015, 1.05000079, -30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_wood53",
+			"translation": [ 66, 1.5, -44.8999977 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "barrier_wood137",
+			"translation": [ 62.8999977, 1.05000079, -60.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood138",
+			"translation": [ 62.8999977, 1.05000079, -54.1999969 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood139",
+			"translation": [ 62.8999977, 1.05000079, -48.2000008 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood140",
+			"translation": [ 48, 1.05000079, -45.2000008 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood141",
+			"translation": [ 54.0999985, 1.05000079, -45.2000008 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood142",
+			"translation": [ 60, 1.05000079, -45.2000008 ],
+			"mesh": 3
+		},
+		{
+			"name": "wall_base35",
+			"translation": [ -14.6999998, 1.5, -30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood55",
+			"translation": [ -14.7999992, 1.5, -36.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base36",
+			"translation": [ -14.6999998, 6.0999999, -30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood56",
+			"translation": [ -14.7999992, 6.0999999, -36.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base37",
+			"translation": [ -14.6999998, 1.5, -42.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood57",
+			"translation": [ -14.7999992, 1.5, -48.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base38",
+			"translation": [ -14.6999998, 6.0999999, -42.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood58",
+			"translation": [ -14.7999992, 6.0999999, -48.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base39",
+			"translation": [ -14.6999998, 1.5, -60.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood59",
+			"translation": [ -14.7999992, 1.5, -66.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base40",
+			"translation": [ -14.6999998, 6.0999999, -60.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood60",
+			"translation": [ -14.7999992, 6.0999999, -66.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base41",
+			"translation": [ -12, 1.5, -68.7999954 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_base43",
+			"translation": [ 0, 1.5, -68.7999954 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "wall_wood61",
+			"translation": [ 12, 1.5, -68.9000015 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood62",
+			"translation": [ 12, 6.0999999, -68.9000015 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_base45",
+			"translation": [ 18, 1.5, -68.7999954 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 9
+		},
+		{
+			"name": "barrier_wood59",
+			"translation": [ -11.8999996, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood60",
+			"translation": [ -5.9000001, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood61",
+			"translation": [ 5.9000001, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood62",
+			"translation": [ 11.8999996, 1.05000079, -27.1999989 ],
+			"mesh": 3
+		},
+		{
+			"name": "portal_autumn",
+			"translation": [ -14.6999998, 1.53817487, 48.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 13
+		},
+		{
+			"name": "barrier_wood63",
+			"translation": [ -11.8999996, 1.05000079, -51 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood64",
+			"translation": [ 5.9000001, 1.05000079, -51 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood65",
+			"translation": [ -0.099999994, 1.05000079, -51 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood66",
+			"translation": [ -11.8999996, 1.05000079, -57.1999969 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood67",
+			"translation": [ -0.099999994, 1.05000079, -57.1999969 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood143",
+			"translation": [ 14.8999996, 1.05000079, -30.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood144",
+			"translation": [ 14.8999996, 1.05000079, -36.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood145",
+			"translation": [ 14.8999996, 1.05000079, -42.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood146",
+			"translation": [ 14.8999996, 1.05000079, -48 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood147",
+			"translation": [ 2.89999962, 1.05000079, -60.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood148",
+			"translation": [ 2.89999962, 1.05000079, -66 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood149",
+			"translation": [ 9.09999943, 1.05000079, -60.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood150",
+			"translation": [ 9.09999943, 1.05000079, -66 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood151",
+			"translation": [ 26.8999996, 1.05000079, -60.0999985 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood152",
+			"translation": [ 26.8999996, 1.05000079, -66 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood68",
+			"translation": [ 17.8999996, 1.05000079, -57.1999969 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood69",
+			"translation": [ 23.8999996, 1.05000079, -57.1999969 ],
+			"mesh": 3
+		},
+		{
+			"name": "Portal3",
+			"translation": [ -11.6999998, 3.5500021, 27.3999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 14
+		},
+		{
+			"name": "portal_autumn2",
+			"translation": [ -11.8999996, 1.53817487, 27.1999989 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal4",
+			"translation": [ 21.5, 3.5500021, 71.6999969 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 6
+		},
+		{
+			"name": "portal_autumn3",
+			"translation": [ 21.2999992, 1.53817487, 71.9000015 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal5",
+			"translation": [ 21.5, 3.5500021, 53.7999992 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 15
+		},
+		{
+			"name": "portal_autumn4",
+			"translation": [ 21.2999992, 1.53817487, 54 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal6",
+			"translation": [ 45.5, 3.5500021, 89.7999954 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 16
+		},
+		{
+			"name": "portal_autumn5",
+			"translation": [ 45.2999992, 1.53817487, 90 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal7",
+			"translation": [ 21.5, 3.5500021, 35.7000008 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 14
+		},
+		{
+			"name": "portal_autumn6",
+			"translation": [ 21.2999992, 1.53817487, 35.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal8",
+			"translation": [ 60.0999985, 3.5500021, 27.3999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 17
+		},
+		{
+			"name": "portal_autumn7",
+			"translation": [ 59.8999977, 1.53817487, 27.1999989 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal9",
+			"translation": [ 27.5, 3.5500021, -6.39999962 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 18
+		},
+		{
+			"name": "portal_autumn8",
+			"translation": [ 27.2999992, 1.53817487, -6.19999981 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal10",
+			"translation": [ 54.1999969, 3.5500021, -62.5999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 17
+		},
+		{
+			"name": "portal_autumn9",
+			"translation": [ 54, 1.53817487, -62.7999992 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal11",
+			"translation": [ 72.0999985, 3.5500021, -44.5999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 15
+		},
+		{
+			"name": "portal_autumn10",
+			"translation": [ 71.9000015, 1.53817487, -44.7999992 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal12",
+			"translation": [ 24.1000004, 3.5500021, -68.5999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 18
+		},
+		{
+			"name": "portal_autumn11",
+			"translation": [ 23.8999996, 1.53817487, -68.7999954 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 13
+		},
+		{
+			"name": "Portal13",
+			"translation": [ -5.79999971, 3.5500021, -68.5999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 16
+		},
+		{
+			"name": "portal_autumn12",
+			"translation": [ -6, 1.53817487, -68.7999954 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 13
+		},
+		{
+			"name": "Door3",
+			"translation": [ 0.099999994, 3.57000113, 38.7000008 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 10
+		},
+		{
+			"name": "wall_wood48",
+			"translation": [ 38.7999992, 1.5, -41.5 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "wall_wood54",
+			"translation": [ 38.7999992, 1.5, -30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 8
+		},
+		{
+			"name": "Door4",
+			"translation": [ 38.7999992, 3.57000113, -35.7999992 ],
+			"scale": [ 1, 4, 4 ],
+			"mesh": 10
+		},
+		{
+			"name": "arch_autumn4",
+			"translation": [ 21.1000004, 6.55514288, -0.099999994 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 19
+		},
+		{
+			"name": "pillar_autumn7",
+			"translation": [ 51.5999985, 1.08618903, 86.5999985 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn8",
+			"translation": [ 56.5, 1.08618903, 86.5999985 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn9",
+			"translation": [ 51.5999985, 1.08618903, 81.1999969 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn10",
+			"translation": [ 56.5, 1.08618903, 81.1999969 ],
+			"mesh": 12
+		},
+		{
+			"name": "barrier_wood153",
+			"translation": [ 63.0999985, 1.05000079, -42 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood154",
+			"translation": [ 63.0999985, 1.05000079, -30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood155",
+			"translation": [ 44.8999977, 1.05000079, -42 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood156",
+			"translation": [ 44.8999977, 1.05000079, -30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "bridge_wood4",
+			"translation": [ 60, 1, -36 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood5",
+			"translation": [ 54, 1, -36 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn11",
+			"translation": [ 51.1999969, 1.08618903, -38.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn12",
+			"translation": [ 51.1999969, 1.08618903, -33.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn13",
+			"translation": [ 56.8999977, 1.08618903, -38.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn14",
+			"translation": [ 56.8999977, 1.08618903, -33.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn15",
+			"translation": [ 62.7999992, 1.08618903, -38.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn16",
+			"translation": [ 62.7999992, 1.08618903, -33.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "bridge_wood6",
+			"translation": [ 48, 1, -36 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn17",
+			"translation": [ 45.2000008, 1.08618903, -38.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn18",
+			"translation": [ 45.2000008, 1.08618903, -33.5 ],
+			"mesh": 12
+		},
+		{
+			"name": "barrier_wood126",
+			"translation": [ 51.0999985, 1.05000079, 77.7999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood157",
+			"translation": [ 44.8999977, 1.05000079, 65.9000015 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "bridge_wood7",
+			"translation": [ 48, 1, 71.9000015 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn19",
+			"translation": [ 50.7000008, 1.08618903, 74.1999969 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn20",
+			"translation": [ 50.7000008, 1.08618903, 69.2999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn21",
+			"translation": [ 45.2999992, 1.08618903, 74.1999969 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn22",
+			"translation": [ 45.2999992, 1.08618903, 69.2999954 ],
+			"rotation": [ 0, 0.707106829, -0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "barrier_wood106",
+			"translation": [ 57.0999985, 1.05000079, 41.7999992 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood109",
+			"translation": [ 57.0999985, 1.05000079, 30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood112",
+			"translation": [ 44.8999977, 1.05000079, 41.7999992 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood158",
+			"translation": [ 44.8999977, 1.05000079, 30.0999985 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "bridge_wood8",
+			"translation": [ 54, 1, 35.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood9",
+			"translation": [ 48, 1, 35.8999977 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn23",
+			"translation": [ 45.2000008, 1.08618903, 33.3999977 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn24",
+			"translation": [ 45.2000008, 1.08618903, 38.3999977 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn25",
+			"translation": [ 50.8999977, 1.08618903, 33.3999977 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn26",
+			"translation": [ 50.8999977, 1.08618903, 38.3999977 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn27",
+			"translation": [ 56.7999992, 1.08618903, 33.3999977 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn28",
+			"translation": [ 56.7999992, 1.08618903, 38.3999977 ],
+			"mesh": 12
+		},
+		{
+			"name": "barrier_wood159",
+			"translation": [ -9.09999943, 5.05000067, -11.8000002 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "barrier_wood160",
+			"translation": [ -9.09999943, 5.05000067, -5.9000001 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 3
+		},
+		{
+			"name": "bridge_wood10",
+			"translation": [ 12, 5, -0.199999988 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood11",
+			"translation": [ 6, 5, -0.199999988 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn31",
+			"translation": [ 8.89999962, 5.08618879, -2.70000005 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn32",
+			"translation": [ 8.89999962, 5.08618879, 2.29999995 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn33",
+			"translation": [ 14.7999992, 5.08618879, -2.70000005 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn34",
+			"translation": [ 14.7999992, 5.08618879, 2.29999995 ],
+			"mesh": 12
+		},
+		{
+			"name": "bridge_wood12",
+			"translation": [ -6.81405936e-08, 5, -6.0999999 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood13",
+			"translation": [ -2.14156159e-07, 5, -12.0999994 ],
+			"rotation": [ -0, -1, 0, 1.48106283e-08 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn35",
+			"translation": [ 2.49999952, 5.08618879, -14.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn36",
+			"translation": [ -2.50000024, 5.08618879, -14.8999996 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn37",
+			"translation": [ 2.49999976, 5.08618879, -9.19999981 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn38",
+			"translation": [ -2.5, 5.08618879, -9.19999981 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn39",
+			"translation": [ 3.19999981, 5.08618879, -3.29999995 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn40",
+			"translation": [ -3.19999981, 5.08618879, -3.39999986 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "bridge_wood14",
+			"translation": [ -6.99999987e-08, 5, 11.8999996 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 11
+		},
+		{
+			"name": "bridge_wood15",
+			"translation": [ -2.09999996e-07, 5, 5.9000001 ],
+			"rotation": [ -0, -1, 0, 1.74532921e-08 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn41",
+			"translation": [ 3.19999957, 5.08618879, 3 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn42",
+			"translation": [ -3.20000029, 5.08618879, 3 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn43",
+			"translation": [ 2.49999976, 5.08618879, 8.80000019 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn44",
+			"translation": [ -2.5, 5.08618879, 8.80000019 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn45",
+			"translation": [ 2.5, 5.08618879, 14.6999998 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn46",
+			"translation": [ -2.5, 5.08618879, 14.6999998 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 12
+		},
+		{
+			"name": "bridge_wood16",
+			"translation": [ -6, 5, -0.199999988 ],
+			"rotation": [ -0, -0.707106829, 0, 0.707106829 ],
+			"mesh": 11
+		},
+		{
+			"name": "pillar_autumn47",
+			"translation": [ -8.80000019, 5.08618879, -2.70000005 ],
+			"mesh": 12
+		},
+		{
+			"name": "pillar_autumn48",
+			"translation": [ -8.80000019, 5.08618879, 2.29999995 ],
+			"mesh": 12
+		},
+		{
+			"name": "key9",
+			"translation": [ 54.2999992, 1.62500107, -48 ],
+			"scale": [ 0.5, 0.5, 0.5 ],
+			"mesh": 0
+		},
+		{
+			"name": "DefaultPhysicsVolume0"
+		},
+		{
+			"name": "AbstractNavData-Default"
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Mask_LevelAutomn",
+			"nodes": [ 0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "key_BaseColor",
+			"sampler": 0,
+			"source": 6
+		},
+		{
+			"name": "ground_BaseColor",
+			"sampler": 0,
+			"source": 7
+		},
+		{
+			"name": "M_Groung_Autumn_MetallicRoughness",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "ground_Normal",
+			"sampler": 0,
+			"source": 8
+		},
+		{
+			"name": "pressure_BaseColor",
+			"sampler": 0,
+			"source": 9
+		},
+		{
+			"name": "M_Pressure_MetallicRoughness",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "pressure_Normal",
+			"sampler": 0,
+			"source": 10
+		},
+		{
+			"name": "portal_level_BaseColor",
+			"sampler": 0,
+			"source": 11
+		},
+		{
+			"name": "M_Portal_Level_MetallicRoughness",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "portal_level_Normal",
+			"sampler": 0,
+			"source": 12
+		},
+		{
+			"name": "stairs_hill_BaseColor",
+			"sampler": 0,
+			"source": 13
+		},
+		{
+			"name": "stairs_hill_Normal",
+			"sampler": 0,
+			"source": 14
+		},
+		{
+			"name": "moving_platform_BaseColor",
+			"sampler": 0,
+			"source": 15
+		},
+		{
+			"name": "M_Moving_plateform_MetallicRoughness",
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"name": "moving_platform_Normal",
+			"sampler": 0,
+			"source": 16
+		},
+		{
+			"name": "wall_wood_BaseColor",
+			"sampler": 0,
+			"source": 17
+		},
+		{
+			"name": "M_Wall_wood_MetallicRoughness",
+			"sampler": 0,
+			"source": 4
+		},
+		{
+			"name": "wall_wood_Normal",
+			"sampler": 0,
+			"source": 18
+		},
+		{
+			"name": "wall_base_spring_BaseColor",
+			"sampler": 0,
+			"source": 19
+		},
+		{
+			"name": "bridge_wood_BaseColor",
+			"sampler": 0,
+			"source": 20
+		},
+		{
+			"name": "bridge_wood_Normal",
+			"sampler": 0,
+			"source": 21
+		},
+		{
+			"name": "pillar_BaseColor",
+			"sampler": 0,
+			"source": 22
+		},
+		{
+			"name": "portal_autumn_BaseColor",
+			"sampler": 0,
+			"source": 23
+		},
+		{
+			"name": "M_Portal_automn_MetallicRoughness",
+			"sampler": 0,
+			"source": 5
+		},
+		{
+			"name": "arch_autumn_BaseColor",
+			"sampler": 0,
+			"source": 24
+		}
+	],
+	"extensions":
+	{
+		"KHR_lights_punctual":
+		{
+			"lights": [
+				{
+					"name": "DirectionalLight2",
+					"type": "directional",
+					"color": [ 0.854992628, 0.854992628, 0.854992628 ],
+					"intensity": 2
+				}
+			]
+		}
+	},
+	"extensionsUsed": [
+		"KHR_lights_punctual"
+	]
+}

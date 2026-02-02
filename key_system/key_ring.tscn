@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cxbosld68hn1b"]
+
+[ext_resource type="Script" uid="uid://ctxy332h5jy11" path="res://key_system/key_ring.gd" id="1_1de5d"]
+
+[node name="KeyRing" type="Node3D" unique_id=1454669860 groups=["key_ring"]]
+script = ExtResource("1_1de5d")

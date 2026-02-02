@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://ds183v2decd7h"]
+
+[node name="LevelWinter" type="Node3D" unique_id=1121577484]
+
+[node name="Label3D" type="Label3D" parent="." unique_id=1068692331]
+transform = Transform3D(0.71960014, -0.56582415, 0.4025157, 0, 0.5796692, 0.81485194, -0.69438887, -0.58636755, 0.4171299, -3.2014214e-09, 1, -3.2014214e-09)
+render_priority = 15
+outline_render_priority = 15
+text = "TO BE CONTINUED..."
+font_size = 512
+outline_size = 32

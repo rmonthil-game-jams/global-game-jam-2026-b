@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bd8qqk8aidyxo"]
+
+[ext_resource type="Script" uid="uid://cou1yet2lf3eh" path="res://bridge_manager/bridge_manager.gd" id="1_o8xdi"]
+
+[node name="BridgeManager" type="Node" unique_id=1361621934]
+script = ExtResource("1_o8xdi")

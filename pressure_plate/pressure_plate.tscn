@@ -1,0 +1,103 @@
+[gd_scene format=4 uid="uid://dr75lgc4myevx"]
+
+[ext_resource type="Script" uid="uid://bs284qgsljv2t" path="res://pressure_plate/pressure_plate.gd" id="1_da68d"]
+[ext_resource type="Texture2D" uid="uid://d1of6j3rf56nx" path="res://assets/level_spring/pressure_BaseColor.png" id="2_7iqjl"]
+[ext_resource type="Texture2D" uid="uid://cu8mdi2wtdca5" path="res://assets/level_spring/M_Pressure_MetallicRoughness.png" id="3_rb81t"]
+[ext_resource type="Texture2D" uid="uid://brar8q5foradp" path="res://assets/level_spring/pressure_Normal.png" id="4_t8tc0"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_uiy6i"]
+size = Vector3(1.9999986, 1.082469, 2)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_b5qyx"]
+resource_name = "M_Pressure"
+render_priority = 8
+albedo_texture = ExtResource("2_7iqjl")
+metallic = 1.0
+metallic_texture = ExtResource("3_rb81t")
+metallic_texture_channel = 2
+roughness_texture = ExtResource("3_rb81t")
+roughness_texture_channel = 1
+normal_enabled = true
+normal_texture = ExtResource("4_t8tc0")
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_fy17p"]
+_surfaces = [{
+"aabb": AABB(-0.9999985, -0.5, -1, 1.9999986, 1.082469, 2),
+"format": 34896613377,
+"index_count": 84,
+"index_data": PackedByteArray("AAABAAIAAAAFAAEADAACAAEADQAAAAIADQACAAwADQAOAAAAAAAOAAUABQAPAAEAAQAPAAwABQAOAA8AAwAMAA8ABAANAAwABAAMAAMADQAHAA4ABwANAAQADgAGAA8ADgAHAAYADwAGAAMABAAIAAcACAAEAAMABwAJAAYACAAJAAcACQAKAAYABgAKAAMACAALAAkACwAKAAkAAwALAAgACgALAAMA"),
+"lods": [0.00055305107, PackedByteArray("AAABAAIAAwACAAEABAAAAAIABAACAAMAAAAFAAEABAAFAAAABQAGAAEAAQAGAAMABAAHAAUABQAHAAYABAAIAAcACAAEAAMABwAJAAYACAAJAAcACQAKAAYABgAKAAMACAALAAkACwAKAAkAAwALAAgACgALAAMA")],
+"name": "M_Pressure",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 16,
+"vertex_data": PackedByteArray("//8AAP//AAAAAAAAAAAAAAAAAAD//wAAAAAy+P//AAD//zL4//8AAP//AAAAAAAAAAAy+AAAAAD//zL4AAAAAMb7///G+wAAxvv//zgEAAA4BP//OAQAADgE///G+wAAAAB+7P//AAD//37s//8AAP//fuwAAAAAAAB+7AAAAAA=")
+}]
+blend_shape_mode = 0
+
+[sub_resource type="ArrayMesh" id="ArrayMesh_df3n4"]
+resource_name = "Mask_LevelSpring_pressure"
+_surfaces = [{
+"aabb": AABB(-0.9999985, -0.5, -1, 1.9999986, 1.082469, 2),
+"attribute_data": PackedByteArray("z2W/mc9yEALQAb/9EALPctABv5kQAhACz2W//c9yz3JvaCcs/4evdR/JJywf9a91v8p/Lv/2T3jPZn8uP4ZPeNABnQQ/hl+6dgNJAv+Hv7cfZEUCH/W/t89lmgT/9l+6z2Y/yb9Gn+pvaN/GH0S/6L/KP8m/Rs95H8nfxh9Er3tfx3+XRz3Peb/Fv5nnP697b2Nflz89n+oPZb+Z3z+/6H9iv5nf5h9v0AG/mc95H29/Yhc53+YQAtABFznPeRACX8f/YhgCz3lvY1+XPz2f6m9j72IQAp/qX8d/l0c9z3nPZj/Jv0af6r/Kv/3/gc95z2a//d+Bn+q/yj/Jv0bPec9lmgT/9l+60gEXOT+Gf/XQAZ0EP4Zfus9lDzn/9n/1v8p/Lv/2T3i/yu9i//Z/s89m72I/hn+zz2Z/Lj+GT3hvY/+Ubzqf6l/H/5R3Os95v8q/y49Jz3nPZr/Lj0mf6tABFwc/hh+9z2UTB//2H72/yvcw//Yfe89m9zA/hh97"),
+"format": 34896613431,
+"index_count": 84,
+"index_data": PackedByteArray("AAABAAIAAAADAAEABAAFAAYABwAEAAYACAAJAAoACgALAAgADAANAA4ADQAPAA4AEAARABIAEQATABIAFAAVABYAFQAXABYAGAAoABoAGAApACgAKQAZACgAKQAbABkAHgAqAB0AKwAqAB4AKwAfACoAHwArABwAIAAsACIAIAAtACwALQAhACwALQAjACEALgAlACYAJgAvAC4AJAAuAC8ALwAnACQA"),
+"lods": [0.00055305107, PackedByteArray("AAABAAIAAAADAAEABAAFAAYABwAEAAYACAAJAAoACgALAAgADAANAA4ADQAPAA4AEAARABIAEQATABIAFAAVABYAFQAXABYAGAAZABoAGAAbABkAHAAdAB4AHAAfAB0AIAAhACIAIAAjACEAJAAlACYAJgAnACQA")],
+"material": SubResource("StandardMaterial3D_b5qyx"),
+"name": "M_Pressure",
+"primitive": 3,
+"uv_scale": Vector4(0, 0, 0, 0),
+"vertex_count": 48,
+"vertex_data": PackedByteArray("//8AAP///78AAAAAAAD/vwAAAAD///+///8AAAAA/784BP//OAT8xTgE///G+/zFAAAy+P///MUAADL4AAD8xQAAMvj///+fOAT//8b7/5/G+///xvv/n///Mvj///+f//8y+P///MXG+///xvv8xf//MvgAAPzFxvv//zgE/MX//zL4AAD/38b7//84BP/fAAAy+AAA/984BP//OAT/38b7///G+/+/OAT//8b7/7/G+///OAT/vzgE//84BP+///8AAAAA//8AADL4AAD//wAAAAAAAP////8y+AAA/////zL4////v///AAAAAP+///8AAP///7///zL4AAD/v///Mvj//wCAAAAAAP//AIAAADL4//8AgP//AAD//wCAAAAy+P///78AAAAA////vwAAAAAAAP+/AAAy+AAA/78AAH7sAAD/////fuwAAP////9+7AAA/7///37s////vwAAfuz//wCA//9+7P//AIAAAH7s////vwAAfuwAAP+/AAD/fwAA/38AAP9/AAD/f/6cAMb+nADG/pwAxv6cAMb///9/////f////3////9//bn/HP25/xz9uf8c/bn/HP///3////9/////f////3////9/////f////3////9/////f////3////9/////f/9/AAD/fwAA/38AAP9/AAD/f////3////9/////f////3////9/////f////3///////3////9//38AAP9/AAD/f////3////9/////f///")
+}]
+blend_shape_mode = 0
+shadow_mesh = SubResource("ArrayMesh_fy17p")
+
+[node name="PressurePlate" type="Node3D" unique_id=1749630387]
+script = ExtResource("1_da68d")
+
+[node name="RigidBody3D" type="RigidBody3D" parent="." unique_id=1253456523]
+collision_layer = 4
+collision_mask = 2
+axis_lock_linear_x = true
+axis_lock_linear_z = true
+mass = 0.1
+can_sleep = false
+lock_rotation = true
+linear_damp = 16.0
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="RigidBody3D" unique_id=1632720500]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.748604e-07, 0.041234493, 0)
+shape = SubResource("BoxShape3D_uiy6i")
+
+[node name="Pressure" type="MeshInstance3D" parent="RigidBody3D" unique_id=1437617859]
+mesh = SubResource("ArrayMesh_df3n4")
+
+[node name="Area3DRepulser" type="Area3D" parent="." unique_id=1076159502]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.2014214e-09, -1.0806035, -3.2014214e-09)
+collision_layer = 0
+collision_mask = 4
+gravity_space_override = 3
+gravity_point_center = Vector3(0, 1, 0)
+gravity_direction = Vector3(0, 1, 0)
+linear_damp_space_override = 1
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3DRepulser" unique_id=83522587]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.748604e-07, 0.041234493, 0)
+shape = SubResource("BoxShape3D_uiy6i")
+
+[node name="Area3DTrigger" type="Area3D" parent="." unique_id=34812118]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.2014214e-09, -1.1105397, -3.2014214e-09)
+collision_layer = 0
+collision_mask = 4
+gravity_space_override = 3
+gravity_point_center = Vector3(0, 1, 0)
+gravity_direction = Vector3(0, 1, 0)
+linear_damp_space_override = 1
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3DTrigger" unique_id=1865441950]
+shape = SubResource("BoxShape3D_uiy6i")
+
+[connection signal="body_exited" from="Area3DRepulser" to="." method="_on_area_3d_repulser_body_exited"]
+[connection signal="body_entered" from="Area3DTrigger" to="." method="_on_area_3d_trigger_body_entered"]
